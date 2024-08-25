@@ -16,7 +16,7 @@ langchain
 CTransformers
 
 **Clone the repository:**
-git clone https://github.com/yourusername/blog-generation-llama.git
+git clone https://github.com/IshJha/local_llm_blog_generator.git
 cd blog-generation-llama
 
 **Install the required Python packages:**
