@@ -1,5 +1,7 @@
 **Blog Generation with Llama 2**
 
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )**
+
 This project demonstrates how to create a blog post using an open-source LLM model (Llama 2) hosted on your local system. 
 The application is built with Streamlit and leverages the CTransformers library to generate a blog post based on user input, including the title, word count, and target audience style.
 
@@ -78,3 +80,5 @@ Click "Generate" to receive a blog post on the specified topic and style.
 The example provided uses the Llama 2 model, but the application can be extended to other models if a .gguf file is available.
 
 Update the model_type and model path in the CTransformers initialization accordingly.
+
+**Author: Ish Jha Contact info: ishjha1929@gmail.com / jha.13@alumni.iitj.ac.in (please feel free to contact for any doubts or collaborative projects ! )**
